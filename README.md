@@ -14,6 +14,10 @@ or an oversight, please tell me.
 
 ![Dark screenshots](dark_screenshots.png)
 
+# How to use
+Download the contrarst_dark.conf and/or the contrarst_light.conf files,
+and place them in your geany colorscheme directory.
+
 # Attributions
 - Thanks to [uloco](https://github.com/uloco) for their
 [syntax-highlighting-samples](https://github.com/uloco/syntax-highlighting-samples).
