@@ -15,7 +15,7 @@ or an oversight, please tell me.
 ![Dark screenshots](dark_screenshots.png)
 
 # How to use
-Download the contrarst_dark.conf and/or the contrarst_light.conf files,
+Download the `contrarst_dark.conf` and/or the `contrarst_light.conf` files,
 and place them in your geany colorscheme directory.
 
 # Attributions
