@@ -1,4 +1,5 @@
-# contrarst-geany-theme
+contrarst-geany-theme
+===
 A light and a dark three colour (excluding background and foreground)
 theme for geany based on percieved brightness and trial and error.
 I made this theme because most that I found were either too high contrast
@@ -14,11 +15,11 @@ or an oversight, please tell me.
 
 ![Dark screenshots](dark_screenshots.png)
 
-# How to use
+## How to use
 Download the `contrarst_dark.conf` and/or the `contrarst_light.conf` files,
 and place them in your geany colorscheme directory.
 
-# Attributions
+## Attributions
 - Thanks to [uloco](https://github.com/uloco) for their
 [syntax-highlighting-samples](https://github.com/uloco/syntax-highlighting-samples).
 - Font used in screenshots is IBM Plex Mono by IBM.
